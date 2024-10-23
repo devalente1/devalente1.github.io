@@ -1,0 +1,212 @@
+{
+    "basic": {
+        "name": "Alexander Baos Morales",
+        "label": "Currently looking for a software development position.",
+        
+        "phone": "",
+        "email": "devalente747@gmail.com",
+        "url": "",
+        "summary": [
+            "Person with a passion for technology and innovation, proactive and responsible, known for my attention to detail and ability to learn quickly. My self-motivation drives me to achieve challenging goals with dedication and perseverance. I possess excellent teamwork skills, fostering a collaborative environment where problem-solving becomes an opportunity to grow and learn. My focus is always on continuous improvement and expanding my knowledge to stay updated with the latest technological trends. I am recognized for my analytical abilities and my skill for self-directed learning, which allows me to tackle complex challenges with creativity and efficiency. I am determined to make a significant contribution in any professional environment and am committed to continuous personal and professional growth."],
+        "location": {
+            "address": "Cali",
+            "region":"Valle del Cauca"
+        },
+        "profiles": [
+            
+        ]
+    },
+    
+    "work": [
+        {
+            "name": "Inspira Research S.A.S",
+            "location": "Cali, Valle del Cauca, Colombia",
+            "position": "Power BI Project Leader at Inspira Research S.A.S",
+            "url": "https://inspiraresearch.co",
+            "startDate": "11/2018",
+            "endDate": "08/2023",
+            "summary": "",
+            "highlights": [
+                "Optimized the requirements of various company projects, achieving the desired results through the BI tool. Cleaned and standardized databases using a specialized management system, applying extraction, transformation, and loading (ETL) principles for future use.",
+                "Designed data models tailored to specific needs, connecting multiple information sources with the BI tool. Created custom calculations using Data Analysis Expressions (DAX), aligning with the company's requirements. Processed and transformed data into valuable information for future analysis.",
+                "Built interactive dashboards for various company categories, as well as generated reports for my manager and clients. Automated these reports to visualize relevant data, facilitating decision-making and continuous improvement. Ensured the functionality and availability of dashboards on the web platform.",
+                "Collaborated with the management and project execution team, providing the necessary information. Fulfilled the requests of my manager and process leaders, actively contributing to the design, development, and implementation of business intelligence models."
+            ]
+        },
+        {
+            "name": "Inspira Research S.A.S",
+            "location": "Cali, Valle del Cauca, Colombia",
+            "position": "Programming Assistant at Inspira Research S.A.S",
+            "url": "https://inspiraresearch.co",
+            "startDate": "05/2018",
+            "endDate": "11/2018",
+            "summary": "",
+            "highlights": [
+                "Implemented and managed Oracle 11g Database for data extraction.",
+                "Standardized and cleaned databases from various company categories.",
+                "Experience using SPSS Statistics v24.0."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Institución Universitaria Antonio José Camacho",
+            "area": "Information Systems Technology",
+            "studyType": "",
+            "startDate": "2019",
+            "endDate": "2023",
+            "gpa": ""
+        },
+        {
+            "institution": "Servicio Nacional de Aprendizaje: SENA",
+            "area": "Software Programming Technician",
+            "studyType": "",
+            "startDate": "10/2017",
+            "endDate": "11/2018",
+            "gpa": ""
+           
+        },
+        {
+            "institution": "CISCO",
+            "area": "CCNA: Switching, Routing, and Wireless Essentials",
+            "studyType": "Certification",
+            "startDate": "08/2023",
+            "endDate": "12/2023"          
+        },
+        {
+            "institution": "Generación TIC",
+            "area": "Data Science",
+            "studyType": "Certificate",
+            "startDate": "",
+            "endDate": "06/2024"         
+        },
+        {
+            "institution": "Platzi",
+            "area": "Introduction to Java SE", 
+            "studyType": "Certificate",
+            "startDate": "",
+            "endDate": "10/2024"
+        },
+        {
+            "institution": "Platzi",
+            "area": "Object-Oriented Java SE",
+            "studyType": "Certificate",
+            "startDate": "",
+            "endDate": "10/2024"         
+        },
+        {
+            "institution": "Platzi",
+            "area": "Professional Course in Git and GitHub",
+            "studyType": "Certificate",
+            "startDate": "",                     
+            "endDate": "10/2024"
+        }
+    ],
+    
+    "skills": [
+    
+        {
+            "name": "Java",
+            "level": "Competent",
+            "keywords": [
+                "OOP",
+                "Architecture",
+                "Design Patterns",
+                "Spring"
+            ]
+        },
+        {
+            "name": "PHP",
+            "level": "Competent",
+            "keywords": [
+                "Architecture",
+                "Design Patterns",
+                "CodeIgniter",
+                "Laravel"
+            ]
+        },
+        
+        {
+            "name": "JavaScript",
+            "level": "Average",
+            "keywords": [
+                "Architecture",
+                "Design Patterns",
+                "React",
+                "Angular",
+                "NodeJS"
+            ]
+        },
+        {
+            "name": "SQL",
+            "level": "Master",
+            "keywords": [
+                "MySQL",
+                "PostgreSQL",
+                "Oracle",
+                "MariaDB",
+                "PL/SQL"
+            ]
+        },
+        {
+            "name": "Python",
+            "level": "Basic"
+            
+        },
+        {
+            "name": "R",
+            "level": "Basic"
+            
+        },
+        {
+            "name": "HTML",
+            "level": "Master"
+            
+        },
+        {
+            "name": "CSS3",
+            "level": "Competent",
+            "keywords": [
+                "Bootstrap"
+            ]
+        },
+        {
+            "name": "CVS",
+            "level": "Competent",
+            "keywords": [
+                "Git",
+                "GitHub"
+            ]
+        },
+        {
+            "name": "Data Analysis",
+            "level": "Master",
+            "keywords": [
+                "Power BI",
+                "Excel"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "fluency": "Master"
+        },
+        {
+            "language": "English",
+            "fluency": "Average"
+        }
+    ],
+    "interests": [
+        {
+            "name": "",
+            "keywords": [
+                "DevOps",
+                "FrontEnd",
+                "AWS",
+                "AI",
+                "ML"
+            ]
+        }
+    ]
+}
